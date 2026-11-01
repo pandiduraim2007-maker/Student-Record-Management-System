@@ -1,0 +1,67 @@
+  ===== STUDENT RECORD MANAGEMENT SYSTEM =====
+
+1. Add Student
+2. Display Students
+3. Search Student
+4. Update Student
+5. Delete Student
+0. Exit
+
+Enter your choice: 1
+Enter Register Number: 101
+Enter Student Name: Arun Kumar
+Enter Department: CSE
+Enter Year: 2
+Enter Mark: 85.5
+Student added successfully!
+
+Enter your choice: 1
+Enter Register Number: 102
+Enter Student Name: Priya S
+Enter Department: ECE
+Enter Year: 3
+Enter Mark: 91
+Student added successfully!
+
+Enter your choice: 2
+
+--- Student Records ---
+
+Register Number: 101
+Name: Arun Kumar
+Department: CSE
+Year: 2
+Mark: 85.50
+
+Register Number: 102
+Name: Priya S
+Department: ECE
+Year: 3
+Mark: 91.00
+
+Enter your choice: 3
+Enter Register Number to Search: 102
+Student Found!
+Name: Priya S
+
+Enter your choice: 4
+Enter Register Number to Update: 101
+Enter New Mark: 88
+Student record updated successfully!
+
+Enter your choice: 5
+Enter Register Number to Delete: 102
+Student deleted successfully!
+
+Enter your choice: 2
+
+--- Student Records ---
+
+Register Number: 101
+Name: Arun Kumar
+Department: CSE
+Year: 2
+Mark: 88.00
+
+Enter your choice: 0
+Exiting Program...
